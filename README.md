@@ -1,5 +1,9 @@
 # Robotics Free Resources
 
+[![Black Friday](https://file.labex.io/images/labex-bf24.png)](https://labex.io/pricing)
+
+> [Black Friday 2024 & Cyber Monday 2024 Deals](https://labex.io/pricing) | Best Price of the Year
+
 🤖 Bring machines to life with our Robotics Workshop repository! Explore free resources and an online playground covering essential robotics concepts. From kinematics to computer vision, build your skills and bring your robotic projects from imagination to reality.
 
 ## Resources
